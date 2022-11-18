@@ -4,7 +4,7 @@ import About from "./components/About.js";
 import Projects from "./components/Projects.js";
 import Contact from "./components/Contact.js";
 
-const path = "/assets/data.json";
+const path = "assets/data.json";
 
 fetch(path)
   .then((response) => response.json())
