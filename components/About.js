@@ -13,7 +13,7 @@ export default function About(about) {
     </p>
     <p class="hello_4">
       Skills: Python • JavaScript • TypeScript • React • Git • Java • SQL
-      • NodeJS
+      • NodeJS • D3
     </p>
     <p class="hello_5">Pastimes: Fitness • Music • Anime</p>
     <a class="resume" href="${about.resume}" target="_blank">My resume!</a>
