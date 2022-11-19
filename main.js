@@ -13,6 +13,7 @@ async function fetchData(path) {
 }
 
 const data = await fetchData(path);
+
 document.querySelector("#a").innerHTML = About(data.about);
 document.querySelector("#p").innerHTML = Projects(data.projects);
 document.querySelector("#c").innerHTML = Contact(data.contact);

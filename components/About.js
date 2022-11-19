@@ -15,7 +15,7 @@ export default function About(about) {
       Skills: Python • JavaScript • TypeScript • React • Git • Java • SQL
       • NodeJS • D3
     </p>
-    <p class="hello_5">Pastimes: Fitness • Music • Anime</p>
+    <p class="hello_5">Pastimes: Fitness • Music • Anime • Gaming • Gaming</p>
     <a class="resume" href="${about.resume}" target="_blank">My resume!</a>
   </div>
   <div class="pfp"><img src="${about.photo}" alt="PFP" /></div>
