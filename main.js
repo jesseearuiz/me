@@ -7,11 +7,13 @@ import Navbar from "./components/Navbar.js";
 
 const path = "./assets/data.json";
 
-fetch(path)
-  .then((response) => response.json())
-  .then((data) => {
-    document.querySelector("#a").innerHTML = About(data.about);
-    document.querySelector("#p").innerHTML = Projects(data.projects);
-    document.querySelector("#c").innerHTML = Contact(data.contact);
-    document.querySelector(".navbar").innerHTML = Navbar();
-  });
+async function fetchData(path) {
+  const response = fetch(path);
+  return (await response).json();
+}
+
+const data = await fetchData(path);
+document.querySelector("#a").innerHTML = About(data.about);
+document.querySelector("#p").innerHTML = Projects(data.projects);
+document.querySelector("#c").innerHTML = Contact(data.contact);
+document.querySelector(".navbar").innerHTML = Navbar();
