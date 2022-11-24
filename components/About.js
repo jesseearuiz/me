@@ -1,12 +1,10 @@
 "use strict";
 
 export default function About(about) {
-  console.log(about);
-  const container = document.querySelector(".container");
   let inner = `<div class="about">
   <div class="hello">
     <h5 class="hello_1">Hey🤗 I'm</h5>
-    <h1 class="name">Andy 🤖</h1>
+    <h1 class="name">Andy <i class="fa-solid fa-code"></i></h1>
     <p class="hello_2">CS Student @ Boston College</p>
     <p class="hello_3">
       Aspiring full-stack developer living in Princeton, New Jersey

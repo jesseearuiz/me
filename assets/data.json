@@ -28,14 +28,38 @@
       }
     ]
   },
-  "contact": {
-    "mobile": "+1 (908)-267-1668",
-    "email": "denga@bc.edu",
-    "personal": "denga323@gmail.com",
-    "github": {
-      "link": "https://github.com/1Dengaroo",
-      "name": "1Dengaroo"
+  "experience": [
+    {
+      "title": "IT Help Desk Technician",
+      "date": "August 28, 2022 - Present",
+      "description": "Currently working for Boston College IT Services as a help desk technician. Helping students and faculty with all technology related issues and guiding them through installation processes involving BC's various networks and applications."
     },
-    "photo": "assets/contact.JPG"
-  }
+    {
+      "title": "Coach for Vanta Leagues",
+      "date": "November 2020 - May 1, 2021",
+      "description": "Instructed 8 students aged 9-14 using Google Classroom and managed 3 weekly coaching sessions and 1-2 weekly game day. Prioritized a non-toxic, structured, and enjoyable coaching session with our main goal being teamwork/collaboration and overall character development and maturity through esports."
+    }
+  ],
+  "contact": [
+    {
+      "title": "github",
+      "icon": "<i class='fa-brands fa-github'></i>",
+      "link": "https://github.com/1dengaroo"
+    },
+    {
+      "title": "instagram",
+      "icon": "<i class='fa-brands fa-instagram'></i>",
+      "link": "https://www.instagram.com/andy_dengaroo/?hl=en"
+    },
+    {
+      "title": "linkedin",
+      "icon": "<i class='fa-brands fa-linkedin'></i>",
+      "link": "https://www.linkedin.com/in/andy-deng-298876230/"
+    },
+    {
+      "title": "email",
+      "icon": "<i class='fa-regular fa-envelope'></i>",
+      "link": "mailto:denga@bc.edu"
+    }
+  ]
 }

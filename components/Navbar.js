@@ -7,6 +7,7 @@ export default function Navbar() {
     <div class="nav-group">
       <a class="nav-element" href="#">About</a>
       <a class="nav-element" href="#p">Projects</a>
+      <a class="nav-element" href="#e">Experience</a>
       <a class="nav-element" href="#c">Contact</a>
     </div>
   </div>`;
