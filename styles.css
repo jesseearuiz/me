@@ -115,11 +115,15 @@ nav {
   .p-container {
     padding: 0 12rem;
     padding-top: 40px;
-    padding-bottom: 12rem;
+    padding-bottom: 8rem;
   }
 
   .nav-home {
     margin-left: 20rem;
+  }
+
+  .e-container {
+    padding: 40px 12rem;
   }
 }
 
@@ -179,7 +183,11 @@ nav {
   .p-container {
     padding: 0 8rem;
     padding-top: 40px;
-    padding-bottom: 12rem;
+    padding-bottom: 8rem;
+  }
+
+  .e-container {
+    padding: 40px 6rem;
   }
 }
 
@@ -206,17 +214,21 @@ nav {
   }
 
   .p-container {
-    padding: 40px 1rem;
+    padding: 3rem 1rem;
   }
 
   .project-box {
     margin-bottom: 2rem;
   }
+
+  .e-container {
+    padding: 40px 1rem;
+  }
 }
 
 .container {
   /* margin: 25px; */
-  margin-top: 15rem;
+  margin-top: 12rem;
   left: 0;
   width: 100%;
   margin-left: 0;
@@ -229,7 +241,7 @@ nav {
   margin-left: 50px;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20rem;
+  margin-bottom: 12rem;
 }
 
 .hello {
@@ -296,7 +308,7 @@ nav {
 .project-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
-  grid-gap: 4rem;
+  grid-gap: 3rem;
   color: #000;
   margin-top: 1rem;
 }
@@ -387,24 +399,29 @@ nav {
 /* EXPERIENCE */
 
 .e-container {
-  padding: 40px 25px;
-  margin-top: 8rem;
-  margin-bottom: 16rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  background: #f5f5f5;
+  left: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-bottom: 8rem;
 }
 
 .e-element-container {
   margin-top: 24px;
   padding: 3rem;
-  box-shadow: 0 15px 15px rgb(0 0 0 / 16%);
-  color: #000;
+  box-shadow: 0 10px 10px rgb(0 0 0 / 16%);
+  color: gray;
   border-radius: 5px;
-  background: #eee;
+  background: #f5f5f5;
   border: 1px #ccc solid;
 }
 
 .e-date {
   font-size: 12px;
   font-weight: 400;
+  color: black;
 }
 
 .e-row {
@@ -414,6 +431,7 @@ nav {
 
 .e-title {
   font-size: 20px;
+  color: black;
 }
 
 .e-title a {
@@ -429,13 +447,19 @@ nav {
   margin-left: 50px;
   font-size: 3rem;
   text-transform: uppercase;
-  margin-bottom: 6rem;
+  margin-bottom: 4rem;
   color: black;
   display: flex;
   justify-content: center;
-  margin-top: 4rem;
+  margin-top: 3rem;
   letter-spacing: 3px;
   font-family: Roboto Slab, Georgia, Times New Roman, Times, serif;
+}
+
+.e-description {
+  font-size: 18px;
+  margin-top: 25px;
+  color: black;
 }
 
 /* CONTACTS */
@@ -444,8 +468,9 @@ nav {
   position: absolute;
   left: 0;
   width: 100%;
-  background: #62225a;
+  background: #7b2b71;
   height: 12rem;
+  margin-top: 0;
 }
 
 .c-row {

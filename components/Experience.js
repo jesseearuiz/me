@@ -12,7 +12,7 @@ export default function Experience(experience) {
       <h5 class="e-title">${e.title}</h5>
       <span class="e-date">${e.date}</span>
     </div>
-    <div class="project-description">
+    <div class="e-description">
       ${e.description}
     </div>
   </div>`)
