@@ -94,7 +94,7 @@ nav {
 
   .nav-container {
     justify-content: space-between;
-    margin-right: 12rem;
+    margin-right: 20rem;
     font-size: 18px;
   }
 
@@ -116,11 +116,6 @@ nav {
     padding: 0 12rem;
     padding-top: 40px;
     padding-bottom: 12rem;
-  }
-
-  .nav-container {
-    justify-content: space-between;
-    margin-right: 20rem;
   }
 
   .nav-home {
@@ -376,7 +371,7 @@ nav {
 }
 
 .nav-element {
-  margin-left: 2rem;
+  margin-left: 3rem;
   color: black;
 }
 
