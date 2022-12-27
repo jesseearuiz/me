@@ -6,25 +6,18 @@
   "projects": {
     "projects": [
       {
+        "title": "OpenAI API Fullstack Demo App",
+        "description": "I developed a full-stack application using React, TypeScript, Flask, and TailwindCSS. The app utilizes to Flask to handle API requests to the OpenAI API to generate text based on a user prompt. The app is hosted on Heroku, and the source code can be found on the side navigation bar on the app.",
+        "utility": "Utilizes: Flask, React, TypeScript, TailwindCSS",
+        "link": "https://oa-demo.herokuapp.com/",
+        "background": "background: linear-gradient(to bottom right, rgb(148, 224, 103), skyblue);"
+      },
+      {
         "title": "Instagram Clone",
         "description": "This project is a partial clone of instagram that I created using React. It includes a home page, a profile page, and a way to upload new posts. It utilizes React Router to support various navigations in the app and saves user data into a remote database using Firestore. The source code can be found on my GitHub. (Please note that the clone is modeled after an older version of Instagram)",
         "utility": "Utilizes: React • JavaScript • HTML/CSS",
         "link": "https://1dengaroo.github.io/instagram-web/",
         "background": "background: linear-gradient(to bottom right, rgb(224, 226, 119), rgb(249, 76, 168));"
-      },
-      {
-        "title": "Placeholder project",
-        "description": "Currently, I do not have anymore projects that are worth showcasing here. However, this will not be the case for long, as I am working on new projects that will be worth displaying once finished. In the meantime, please still check out the link below!",
-        "utility": "Utilizes: N/A",
-        "link": "https://www.youtube.com/watch?v=68f27rqP_NY",
-        "background": "background: linear-gradient(to bottom right, rgb(148, 224, 103), skyblue);"
-      },
-      {
-        "title": "Placeholder project",
-        "description": "Currently, I do not have anymore projects that are worth showcasing here. However, this will not be the case for long, as I am working on new projects that will be worth displaying once finished. In the meantime, please still check out the link below!",
-        "utility": "Utilizes: N/A",
-        "link": "https://www.youtube.com/watch?v=zr4C_cLgXR0",
-        "background": "background: linear-gradient(to bottom right, rgb(93, 212, 245), rgb(205, 44, 230));"
       }
     ]
   },
