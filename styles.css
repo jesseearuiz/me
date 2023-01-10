@@ -51,8 +51,8 @@ p {
 nav {
   display: block;
 }
-
-/* div {
+/* 
+div {
   border: solid 1px #ccc;
 } */
 
@@ -62,12 +62,17 @@ nav {
   }
 
   .pfp img {
-    width: 75%;
+    width: 375px;
     height: 30rem;
     border-radius: 15%;
     margin-left: 6rem;
-    margin-top: 5rem;
+    margin-top: 0;
     object-fit: cover;
+  }
+
+  .hello {
+    flex-basis: 50%;
+    padding-left: 60px;
   }
 
   .pfp {
@@ -136,15 +141,22 @@ nav {
   }
 
   .pfp img {
-    width: 85%;
-    height: 85%;
+    width: 350px;
+    height: 30rem;
     border-radius: 15%;
-    margin-right: 6rem;
-    margin-left: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-top: 0;
+    object-fit: cover;
+  }
+
+  .hello {
+    flex-basis: 50%;
+    padding-left: 1rem;
   }
 
   .pfp {
-    flex-basis: 50%;
+    flex-basis: 40%;
   }
 
   /* PROJECTS */
@@ -200,6 +212,11 @@ nav {
     margin-right: 3rem;
   }
 
+  .hello {
+    flex-basis: 50%;
+    padding-left: 0;
+  }
+
   .pfp img {
     width: 0px;
     height: 0px;
@@ -240,15 +257,10 @@ nav {
 /* ABOUT */
 
 .about {
-  margin-left: 50px;
+  margin-left: 40px;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 12rem;
-}
-
-.hello {
-  flex-basis: 50%;
-  padding-left: 60px;
 }
 
 .hello_1 {
