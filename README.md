@@ -1,3 +1,3 @@
-# Welcome to my personal website!
+# Hello!
 
-Website: https://1dengaroo.github.io/personal_website/
+Website: https://1dengaroo.github.io/me/
