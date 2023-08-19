@@ -7,14 +7,14 @@
     "projects": [
       {
         "title": "OpenAI API Fullstack Demo App",
-        "description": "I created a full-stack web application employing React, TypeScript, Flask, and TailwindCSS. The application leverages Flask to manage API requests to the OpenAI API, generating text based on user prompts. Hosted on Heroku, you can access the source code via the linked below.",
-        "utility": "Utilizes: Flask, React, TypeScript, TailwindCSS",
+        "description": "I created a full-stack web application using React, TypeScript, Flask, and Tailwind. The application leverages Flask to manage API requests to the OpenAI API, generating text based on user prompts. Hosted on Heroku, you can access the source code via the linked below.",
+        "utility": "Utilizes: Flask, React, TypeScript, Tailwind",
         "link": "https://oa-demo.herokuapp.com/",
         "background": "background: linear-gradient(to bottom right, rgb(148, 224, 103), skyblue);"
       },
       {
         "title": "Instagram Clone",
-        "description": "I developed a partial Instagram replica using React, which features a home page, profile page, and a post uploading functionality. The project employs React Router for seamless navigation within the app and stores user data remotely using Firestore. Please note that this clone is based on an older version of Instagram. You can find the source code on my GitHub repository.",
+        "description": "I developed a partial Instagram replica using React, which features a home page, profile page, and a post uploading functionality. The project employs React Router for seamless navigation within the app and stores user data remotely using Firestore. Please note that this clone is based on an older version of Instagram and is meant to be viewed on smaller screen sizes.",
         "utility": "Utilizes: React • JavaScript • HTML/CSS",
         "link": "https://1dengaroo.github.io/instagram-web/",
         "background": "background: linear-gradient(to bottom right, rgb(224, 226, 119), rgb(249, 76, 168));"
@@ -23,13 +23,13 @@
   },
   "experience": [
     {
-      "title": "Information Technology & Services Consultant",
+      "title": "Information Technology Consultant",
       "date": "August 28, 2022 - Present",
       "description": "As a Help Desk Technician for Boston College IT Services, I provide comprehensive technical support to students, faculty, and staff. My responsibilities include resolving software and network issues; troubleshooting problems related to email, printers, and other devices; and guiding users through installation and setup processes for various applications and networks. Furthermore, I maintain documentation of user tickets, service requests, and their respective solutions. I often collaborate with other IT staff to further assist me in identifying and implementing solutions. I am committed to delivering high-quality customer service and maintaining a positive, productive work environment."
     },
     {
       "title": "Rocket League Instructor",
-      "date": "November 2020 - January, 2022",
+      "date": "October 2020 - May 2021",
       "description": "As a Rocket League Instructor for young students aged 7-14, I utilized Google Classroom to mentor and coach a group of 8 students. I managed 3 weekly coaching sessions and 1-2 weekly game days, where I focused on developing teamwork, collaboration, and overall character maturity through esports. I prioritized creating a non-toxic, structured, and enjoyable coaching environment that encouraged growth and improvement, while ensuring that each student was challenged and engaged. My coaching style was tailored to each student's learning style and pace, with a focus on building a strong foundation of fundamentals and game knowledge. Throughout my time in this role, I fostered positive relationships with students and their families, and received consistent positive feedback for my ability to motivate and inspire young players."
     }
   ],
@@ -37,7 +37,7 @@
     {
       "title": "github",
       "icon": "<i class='fa-brands fa-github'></i>",
-      "link": "https://github.com/1dengaroo"
+      "link": "https://github.com/404"
     },
     {
       "title": "instagram",

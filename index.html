@@ -3,24 +3,79 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+    />
+
+    <!-- JavaScript -->
     <script defer type="module" src="main.js"></script>
+
+    <!-- Google Fonts -->
     <script
       defer
       src="https://kit.fontawesome.com/3b26358845.js"
       crossorigin="anonymous"
     ></script>
-    <link rel="stylesheet" href="styles.css" />
+
+    <!-- Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+
+
     <title>Andy Deng</title>
   </head>
   <body>
-    <nav class="navbar"></nav>
-    <div class="container">
-      <section id="a"></section>
-      <section id="p"></section>
-      <section id="e"></section>
-      <section id="c"></section>
-    </div>
+    <header class="site-header">
+      <nav class="navbar navbar-expand-md navbar-dark bg-black fixed-top">
+      <div class="container">
+        <a class="navbar-brand mr-4" href="/">Andy Deng</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarToggle"
+          aria-controls="navbarToggle"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarToggle">
+          <div class="navbar-nav mr-auto">
+            <a class="nav-item nav-link" href="#a">About</a>
+            <a class="nav-item nav-link" href="#p">Projects</a>
+            <a class="nav-item nav-link" href="#e">Experience</a>
+            
+          </div>
+          <!-- Navbar Right Side -->
+          <div class="navbar-nav">
+            <a class="nav-item nav-link" href="#c">Contact</a>
+
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <div class="">
+    <section id="a"></section>
+    <section id="p"></section>
+    <section id="e"></section>
+    <section id="c"></section>
+  </div>
   </body>
 </html>

@@ -6,7 +6,7 @@ export default function Projects(p) {
   let inner = `<div class="p-container"><h2 class="projects-header">Projects</h2>
     <div class="project-list">`;
   projects.map((p) => {
-    inner += `<div class="project-box" style="background: #f5f5f5;">
+    inner += `<div class="project-box">
     <div>
       <p class="project-title">${p.title}</p>
       <p class="project-description">
@@ -16,7 +16,7 @@ export default function Projects(p) {
        ${p.utility}
       </p>
     </div>
-    <a class="project-link" href="${p.link}" target="_blank">LINK</a>
+    <a class="project-link" href="${p.link}" target="_blank">VIEW</a>
   </div>`;
   });
   inner += `</div></div>`;

@@ -19,4 +19,5 @@ document.querySelector("#a").innerHTML = About(data.about);
 document.querySelector("#p").innerHTML = Projects(data.projects);
 document.querySelector("#e").innerHTML = Experience(data.experience);
 document.querySelector("#c").innerHTML = Contact(data.contact);
-document.querySelector(".navbar").innerHTML = Navbar();
+// document.querySelector(".site-header").innerHTML = Navbar();
+// console.log(Navbar())
