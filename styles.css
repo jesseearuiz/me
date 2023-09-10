@@ -9,8 +9,8 @@ ul {
   margin: 0;
 }
 
-.bg-black {
-  background-color: #000 !important;
+.bg-nav {
+  background-color: #22668D !important;
 }
 
 .site-header .navbar-nav .nav-link {
@@ -95,7 +95,7 @@ section {
   font-size: 1rem;
   letter-spacing: 2.5px;
   font-weight: 500;
-  color: #000;
+  color: #ffb936;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -105,7 +105,7 @@ section {
 }
 
 .resume {
-  background-color: #000;
+  background-color: #FFCC70;
   align-items: center;
   border-radius: 24px;
   cursor: pointer;
@@ -120,13 +120,13 @@ section {
 }
 
 .resume:hover {
-  background-color: #944c8a;
+  background-color: #ffb936;
   color: #f5f5f5;
+  text-decoration: none;
 }
 
 .projects-header {
   font-weight: 500;
-  margin-left: 50px;
   font-size: 3rem;
   text-transform: uppercase;
   margin-bottom: 30px;
@@ -137,6 +137,7 @@ section {
   letter-spacing: 3px;
   margin-bottom: 6rem;
   font-family: Roboto Slab, Georgia, Times New Roman, Times, serif;
+  color: white;
 }
 
 .project-list {
@@ -154,13 +155,13 @@ section {
   justify-content: space-between;
   position: relative;
   box-shadow: 0 15px 15px rgb(0 0 0 / 16%);
-  color: #fff;
+  color: black;
   border-radius: 10%;
-  background-color: #000;
+  background-color: white;
 }
 
 .project-link {
-  color: #fff;
+  color: black;
   align-items: center;
   text-align: center;
   border-radius: 24px;
@@ -172,12 +173,12 @@ section {
   width: 20%;
   height: 1.5rem;
   position: absolute;
-  background: #000;
+  background: white;
   top: 102%;
 }
 
 .project-link:hover {
-  color: #333333;
+  text-decoration: none;
 }
 
 .project-title {
@@ -194,7 +195,7 @@ section {
 
 .p-container {
   margin-top: 140px;
-  background: #f5f5f5;
+  background: #22668D;
   padding-top: 2rem;
   padding-bottom: 10rem;
   padding-left: 4rem;
@@ -241,11 +242,8 @@ section {
 .e-element-container {
   margin-top: 24px;
   padding: 3rem;
-  box-shadow: 0 10px 10px rgb(0 0 0 / 16%);
   color: gray;
   border-radius: 5px;
-  background: #f5f5f5;
-  border: 1px #ccc solid;
 }
 
 .e-date {
@@ -274,7 +272,6 @@ section {
 
 .e-header {
   font-weight: 500;
-  margin-left: 50px;
   font-size: 3rem;
   text-transform: uppercase;
   margin-bottom: 4rem;
@@ -297,7 +294,7 @@ section {
   position: absolute;
   left: 0;
   width: 100%;
-  background: #000;
+  background: #22668D;
   height: 12rem;
   margin-top: 0;
 }
