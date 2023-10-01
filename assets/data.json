@@ -22,7 +22,7 @@
       {
         "title": "TA-Professor Matching System",
         "description": "In January 2023, I was part of a team at Boston College that developed a TA-Professor Matching System to streamline TA recruitment for CS faculty and students. We improved efficiency by 40% using technologies like Django, Bootstrap, and PostgreSQL. The version linked below is a clone I created using Ruby on Rails, not the full proprietary system used by Boston College.",
-        "utility": "Utilizes: React • JavaScript • HTML/CSS",
+        "utility": "Utilizes: Ruby • Rails • PostgreSQL",
         "link": "https://tasystem-rc-24bec7e56043.herokuapp.com/"
 
       }
