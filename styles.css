@@ -198,8 +198,6 @@ section {
   background: #22668D;
   padding-top: 2rem;
   padding-bottom: 10rem;
-  padding-left: 4rem;
-  padding-right: 4rem;
 }
 
 .footer {
@@ -219,12 +217,12 @@ section {
   margin-left: 0;
   margin-right: 0;
   padding-bottom: 8rem;
-  margin-left: 4rem;
-  margin-right: 4rem;
+  /* margin-left: 4rem;
+  margin-right: 4rem; */
 }
 
 @media screen and (max-width: 768px) {
-  .p-container {
+  /* .p-container {
     padding-left: 1rem;
     padding-right: 1rem;
   }
@@ -232,7 +230,7 @@ section {
   .e-container {
     margin-left: 1rem;
     margin-right: 1rem;
-  }
+  } */
 
   .about {
     margin-left: 1rem;
@@ -241,14 +239,15 @@ section {
 
 .e-element-container {
   margin-top: 24px;
-  padding: 3rem;
   color: gray;
   border-radius: 5px;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .e-date {
   font-size: 12px;
-  font-weight: 400;
+  font-weight: 700;
   color: black;
 }
 
@@ -259,6 +258,7 @@ section {
 
 .e-title {
   font-size: 20px;
+  font-weight: 700;
   color: black;
 }
 

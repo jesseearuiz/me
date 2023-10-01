@@ -18,6 +18,13 @@
         "utility": "Utilizes: React • JavaScript • HTML/CSS",
         "link": "https://1dengaroo.github.io/instagram-web/",
         "background": "background: linear-gradient(to bottom right, rgb(224, 226, 119), rgb(249, 76, 168));"
+      },
+      {
+        "title": "TA-Professor Matching System",
+        "description": "In January 2023, I was part of a team at Boston College that developed a TA-Professor Matching System to streamline TA recruitment for CS faculty and students. We improved efficiency by 40% using technologies like Django, Bootstrap, and PostgreSQL. The version linked below is a clone I created using Ruby on Rails, not the full proprietary system used by Boston College.",
+        "utility": "Utilizes: React • JavaScript • HTML/CSS",
+        "link": "https://tasystem-rc-24bec7e56043.herokuapp.com/"
+
       }
     ]
   },
@@ -25,12 +32,12 @@
     {
       "title": "Information Technology Consultant",
       "date": "August 28, 2022 - Present",
-      "description": "As a Help Desk Technician for Boston College IT Services, I provide comprehensive technical support to students, faculty, and staff. My responsibilities include resolving software and network issues; troubleshooting problems related to email, printers, and other devices; and guiding users through installation and setup processes for various applications and networks. Furthermore, I maintain documentation of user tickets, service requests, and their respective solutions. I often collaborate with other IT staff to further assist me in identifying and implementing solutions. I am committed to delivering high-quality customer service and maintaining a positive, productive work environment."
+      "description": "As a Help Desk Technician at Boston College IT Services, I offer technical support to students, faculty, and staff. I handle software and network issues, assist with problems concerning email, printers, and devices, and help users with application and network setups. I also keep records of user tickets and service requests. Working alongside other IT staff helps in finding and applying solutions. My focus is on effective customer service and a constructive work environment."
     },
     {
       "title": "Rocket League Instructor",
       "date": "October 2020 - May 2021",
-      "description": "As a Rocket League Instructor for young students aged 7-14, I utilized Google Classroom to mentor and coach a group of 8 students. I managed 3 weekly coaching sessions and 1-2 weekly game days, where I focused on developing teamwork, collaboration, and overall character maturity through esports. I prioritized creating a non-toxic, structured, and enjoyable coaching environment that encouraged growth and improvement, while ensuring that each student was challenged and engaged. My coaching style was tailored to each student's learning style and pace, with a focus on building a strong foundation of fundamentals and game knowledge. Throughout my time in this role, I fostered positive relationships with students and their families, and received consistent positive feedback for my ability to motivate and inspire young players."
+      "description": "In my role as a Rocket League Instructor for students aged 7-14, I guided a group of 8 using Google Classroom. I held 3 weekly coaching sessions and 1-2 game days, emphasizing teamwork, collaboration, and character development through esports. My goal was a structured, positive coaching environment that fostered growth. Tailoring my approach to each student's pace, I prioritized game fundamentals and understanding. Throughout, I maintained strong rapport with students and their families, often receiving commendations for motivating young players."
     }
   ],
   "contact": [

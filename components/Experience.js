@@ -2,7 +2,7 @@
 
 export default function Experience(experience) {
   let inner = ``;
-  inner += `<div class="e-container">
+  inner += `<div class="container e-container">
   <h2 class="e-header">Experience</h2>
   <div class="e-group">`;
   experience.map(
@@ -13,7 +13,7 @@ export default function Experience(experience) {
       <span class="e-date">${e.date}</span>
     </div>
     <div class="e-description">
-      ${e.description}
+      <span>${e.description}</span>
     </div>
   </div>`)
   );

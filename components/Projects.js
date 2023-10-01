@@ -4,7 +4,7 @@ export default function Projects(p) {
   const projects = p.projects;
 
   let inner = `<div class="p-container"><h2 class="projects-header">Projects</h2>
-    <div class="project-list">`;
+    <div class="container project-list">`;
   projects.map((p) => {
     inner += `<div class="project-box">
     <div>
