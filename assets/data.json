@@ -6,21 +6,7 @@
   "projects": {
     "projects": [
       {
-        "title": "OpenAI API Fullstack Demo App",
-        "description": "I created a full-stack web application using React, TypeScript, Flask, and Tailwind. The application leverages Flask to manage API requests to the OpenAI API, generating text based on user prompts. Hosted on Heroku, you can access the source code via the linked below.",
-        "utility": "Utilizes: Flask, React, TypeScript, Tailwind",
-        "link": "https://oa-demo.herokuapp.com/",
-        "background": "background: linear-gradient(to bottom right, rgb(148, 224, 103), skyblue);"
-      },
-      {
-        "title": "Instagram Clone",
-        "description": "I developed a partial Instagram replica using React, which features a home page, profile page, and a post uploading functionality. The project employs React Router for seamless navigation within the app and stores user data remotely using Firestore. Please note that this clone is based on an older version of Instagram and is meant to be viewed on smaller screen sizes.",
-        "utility": "Utilizes: React • JavaScript • HTML/CSS",
-        "link": "https://1dengaroo.github.io/instagram-web/",
-        "background": "background: linear-gradient(to bottom right, rgb(224, 226, 119), rgb(249, 76, 168));"
-      },
-      {
-        "title": "TA-Professor Matching System",
+        "title": "Your piorkject",
         "description": "In January 2023, I was part of a team at Boston College that developed a TA-Professor Matching System to streamline TA recruitment for CS faculty and students. We improved efficiency by 40% using technologies like Django, Bootstrap, and PostgreSQL. The version linked below is a clone I created using Ruby on Rails, not the full proprietary system used by Boston College.",
         "utility": "Utilizes: Ruby • Rails • PostgreSQL",
         "link": "https://tasystem-rc-24bec7e56043.herokuapp.com/"
@@ -30,14 +16,19 @@
   },
   "experience": [
     {
-      "title": "Information Technology Consultant",
+      "title": "MAS",
       "date": "August 28, 2022 - Present",
-      "description": "As a Help Desk Technician at Boston College IT Services, I offer technical support to students, faculty, and staff. I handle software and network issues, assist with problems concerning email, printers, and devices, and help users with application and network setups. I also keep records of user tickets and service requests. Working alongside other IT staff helps in finding and applying solutions. My focus is on effective customer service and a constructive work environment."
+      "description": "Mas worker."
     },
     {
-      "title": "Rocket League Instructor",
+      "title": "Minority",
       "date": "October 2020 - May 2021",
-      "description": "In my role as a Rocket League Instructor for students aged 7-14, I guided a group of 8 using Google Classroom. I held 3 weekly coaching sessions and 1-2 game days, emphasizing teamwork, collaboration, and character development through esports. My goal was a structured, positive coaching environment that fostered growth. Tailoring my approach to each student's pace, I prioritized game fundamentals and understanding. Throughout, I maintained strong rapport with students and their families, often receiving commendations for motivating young players."
+      "description": "dwadawdawdawdwd"
+    },
+    {
+      "title": "More experience",
+      "date": "October 2020 - May 2021",
+      "description": "dwadawdawdawdwd"
     }
   ],
   "contact": [
@@ -49,17 +40,17 @@
     {
       "title": "instagram",
       "icon": "<i class='fa-brands fa-instagram'></i>",
-      "link": "https://www.instagram.com/andy_dengaroo/?hl=en"
+      "link": "https://www.instagram.com/jes.a.roo/?hl=en"
     },
     {
       "title": "linkedin",
       "icon": "<i class='fa-brands fa-linkedin'></i>",
-      "link": "https://www.linkedin.com/in/andy-deng-298876230/"
+      "link": "https://www.linkedin.com/in"
     },
     {
       "title": "email",
       "icon": "<i class='fa-regular fa-envelope'></i>",
-      "link": "mailto:denga@bc.edu"
+      "link": "mailto:ruizjg@bc.edu"
     }
   ]
 }
