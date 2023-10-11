@@ -6,29 +6,32 @@
   "projects": {
     "projects": [
       {
-        "title": "Your piorkject",
-        "description": "In January 2023, I was part of a team at Boston College that developed a TA-Professor Matching System to streamline TA recruitment for CS faculty and students. We improved efficiency by 40% using technologies like Django, Bootstrap, and PostgreSQL. The version linked below is a clone I created using Ruby on Rails, not the full proprietary system used by Boston College.",
-        "utility": "Utilizes: Ruby • Rails • PostgreSQL",
-        "link": "https://tasystem-rc-24bec7e56043.herokuapp.com/"
-
+        "title": "Boston College Heights Newspaper",
+        "description": "I collaborated with a team of six members to maintain site functionality, enhance the user experience, and introduce innovative features and improvements through the use of CSS3 and HTML5. These efforts led to increased engagement from students, alumni, and the surrounding communities. Additionally, I am currently embarking on a new project, which involves developing a custom content management system for the school newspaper, utilizing React. This project aims to streamline the content creation process for editors. Furthermore, I am working on creating and implementing a responsive web application using React, which will optimize content management. For state management, Redux is being employed, and the application will integrate with a Node.js backend to ensure seamless functionality.",
+        "utility": "Utilizes: React • Redux • Node.js"
       }
     ]
   },
   "experience": [
     {
-      "title": "MAS",
-      "date": "August 28, 2022 - Present",
-      "description": "Mas worker."
+      "title": "MAS Mexican Association of Students",
+      "date": "September 2022 - Present",
+      "description": "I took on the responsibility of preparing cultural events with the aim of fostering a sense of community and providing valuable learning experiences for minority students in an institution that was predominantly white.\nBy successfully organizing these events and gauging their turnout and impact, I was able to engage the administration in discussions about increasing funding and enhancing event flexibility for the future. Additionally, I founded and managed a concessions program that yielded an impressive 127% extra revenue. Simultaneously, I mentored rookie members of the club, guiding them to plan their own events using the additional funds.\nThis not only led to an enhanced understanding of club operations but also promoted greater cohesion within the group.\nLooking ahead, our future projects involve strengthening the relationship between Boston College and the Mexican Consulate in Boston.\nThis collaboration will enable our members to pursue dual citizenship, granting them the opportunity to vote in Mexico's next election. This endeavor reflects our commitment to empowering our members and promoting active civic engagement within our diverse community."
     },
     {
-      "title": "Minority",
-      "date": "October 2020 - May 2021",
-      "description": "dwadawdawdawdwd"
+      "title": "EMERGE Fellowship College Transition Mentor",
+      "date": "June 2022 - May 2023",
+      "description": "I managed a group of eight mentees across Boston College and Boston University, providing crucial guidance during their first-year college transition. I supported them by answering their questions and connecting them to the appropriate campus resources, which resulted in an average GPA improvement of .38 and increased campus engagement from one semester to the next. To maintain their progress, I conducted regular monthly meetings with my mentees, where we assessed and enhanced their academic performance, college involvement, and success strategies. These meetings ensured accountability and facilitated their development in a holistic manner. Furthermore, I diligently prepared and submitted detailed progress reports to the organization. This routine reporting provided regular updates on my mentees' development and contributed to the continuous improvement of the program."
     },
     {
-      "title": "More experience",
-      "date": "October 2020 - May 2021",
-      "description": "dwadawdawdawdwd"
+      "title": "EXXON Mobil Engineering Competitor",
+      "date": "March 2021",
+      "description": "I guided brainstorming sessions with a team of four students, fostering an environment for creative idea generation and establishing efficient procedures that laid a solid foundation for our project. During this process, I carefully discerned which ideas were feasible, taking into account project constraints, the skill set of the team, and our collective knowledge. This approach ensured the timely completion of the project and minimized potential roadblocks. Recognizing the varying knowledge levels within the team, I strategically assigned tasks according to each member's expertise and skills. This not only facilitated smoother team collaboration but also enhanced overall effectiveness and efficiency. Furthermore, I extended my support to students of lower grade levels, tailoring my guidance to their level of understanding of the subject matter. This inclusive approach not only helped them grasp the project better but also encouraged a broader spectrum of valuable contributions to our collaborative efforts."
+    },
+    {
+      "title": "Albion Hurricanes FC U.S. Soccer Federation Licenced Coaching",
+      "date": "September 2021 - Present",
+      "description": "I took an active role in the development of our team by creating and modifying a team training curriculum, complete with tailored exercises. This approach ensured that our training regimen aligned closely with the group's interests and needs, maximizing player growth and development. I also assessed player performance, skill levels, and character traits, allowing me to gain a comprehensive understanding of their individual needs. When applicable, I recommended talented players to higher-level soccer academies, nurturing their potential for broader opportunities. Cultivating respect and trust among approximately 20 players was a key priority for me. To achieve this, I engaged with their specific interests and designed exercises that catered to their preferences. This approach not only improved their attention and engagement during training but also fostered a strong sense of camaraderie within the team. Furthermore, I recognized the importance of building a community and fostering transparency with the players' parents. I developed personal relationships with them, which not only contributed to a sense of trust and unity but also resulted in the creation of my own personal training summer camp, strengthening the bonds between players, parents, and the team as a whole."
     }
   ],
   "contact": [
